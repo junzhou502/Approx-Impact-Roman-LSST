@@ -1,4 +1,6 @@
 analysis_choice/data/
-contours_real_lcdm/data/
-dv_comparison_real/data
-dv_comparison_fourier/data
+contours_roman_real_lcdm/data/
+dv_comparison_roman_real/data
+dv_comparison_roman_fourier/data
+dv_comparison_lsst_real/data
+dv_comparison_lsst_fourier/data
